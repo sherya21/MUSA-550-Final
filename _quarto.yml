@@ -5,8 +5,8 @@ project:
     port: 3333
 
 website:
-  title: "MUSA 550 Quarto Template"
-  site-url: "https://musa-550-fall-2023.github.io/quarto-website-template" 
+  title: "MUSA 550 Quarto try"
+  site-url: "https://sherya.github.io/quarto-website-template" 
   repo-url: https://github.com/MUSA-550-Fall-2023/quarto-website-template 
   repo-actions: [source]
 
